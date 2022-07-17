@@ -2,7 +2,7 @@
 Setting up an ESP32 with Arduino IDE-Code to convert Speech to Text
 ## task1 Setting up an ESP32 with Arduino IDE
 
-## First download Arduino IDE
+# First download Arduino IDE
 ```
 1. file
 2. preferences
